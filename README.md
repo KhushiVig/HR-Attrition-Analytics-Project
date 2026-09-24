@@ -86,6 +86,17 @@ python KhushiVig_HRAttritionAnalysis.py
 - **Research Directors** are the most stable, high-value segment (**2.5% attrition**)
 - Primary lever: reducing mandatory overtime in the Sales department
 
+### Charts
+
+**Risk vs Opportunity Segments**
+![Risk vs Opportunity](charts/10_risk_opportunity.png)
+
+**Attrition Rate by Department**
+![Attrition by Department](charts/01_attrition_by_department.png)
+
+**Attrition Rate: OverTime Driver**
+![OverTime Driver](charts/05_driver_overtime.png)
+
 ---
 
 ## Libraries Used
